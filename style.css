@@ -21,7 +21,6 @@ nav {
   font-size:18px;
   font-family: 'Press Start 2P', cursive;
   background-color: black;
-  border: 1px solid #ccc;
   border-right: none;
   width: 100%;
   margin-bottom: 20px;
@@ -68,24 +67,19 @@ ul li {
   flex-grow: 1;
 }
 
-
-
-html,body
-{
+html, body {
   margin:0;
   padding: 0;
 }
 
-footer
-{
+footer {
   color: white;
   text-align: center;
   font-family: Merriweather, sans-serif;
 }
-a
-{
+
+a {
   text-decoration: none;
   decoration: none;
-  /*display: block;*/
   color: black;
 }
