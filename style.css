@@ -29,12 +29,12 @@
   padding: 0;
   margin: 0;
 }
-#menu li
+#menu ul li
 {
   float:left;
   position: relative;
 }
-#menu li a
+#menu ul li a
 {
   background-color: black;
   color:white;
@@ -45,7 +45,7 @@
   display: block;
   text-align: center;
 }
-#menu li a:hover
+#menu ul li a:hover
 {
   background-color: #708090;
 }
