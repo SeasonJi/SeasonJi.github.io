@@ -14,7 +14,7 @@
   color: white;
 }
 
-
+/************* NAV BAR config *************/
 nav {
   position: fixed;
   z-index: 1;
@@ -28,22 +28,18 @@ nav {
   display: table;
   table-layout: fixed;
 }
-
 nav ul {
   list-style: none;
   margin: 0;
   padding: 0;
 }
-
 nav ul li {
   float:left;
   position: relative;
 }
-
 nav ul li:first-child {
   border-left: none;
 }
-
 nav ul li a {
   display: block;
   text-decoration: none;
@@ -52,7 +48,6 @@ nav ul li a {
   line-height: 50px;
   text-align: center;
 }
-
 nav ul li a:hover
 {
   background-color: #708090;
@@ -62,22 +57,20 @@ ul {
   display: flex;
   flex-direction: row;
 }
-
 ul li {
   flex-grow: 1;
 }
+/******************************************/
 
 html, body {
   margin:0;
   padding: 0;
 }
-
 footer {
   color: white;
   text-align: center;
   font-family: Merriweather, sans-serif;
 }
-
 a {
   text-decoration: none;
   decoration: none;
