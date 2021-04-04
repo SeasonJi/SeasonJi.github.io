@@ -1,1 +1,0 @@
-Check my personal website @ SeasonJi.github.io
